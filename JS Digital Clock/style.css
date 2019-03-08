@@ -1,0 +1,67 @@
+body{
+    margin:0;
+    padding:0;
+    background-image: url(https://media.giphy.com/media/1yT8OBr4o2AqmGtlPj/giphy.gif);
+    background-repeat: no-repeat;
+    background-size: 1370px 600px;
+    
+}
+
+
+.title {
+    background: black;
+    color: #FF8A65;
+    font-family:'Coiny', cursive;
+    font-size: 30px;
+    text-align: center;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+#box{
+    background: #BDBDBD;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    margin: 2%;
+    padding: 2%;
+}
+.clock {
+    position: relative, fixed;
+    
+    color: #3F51B5;
+    font-size: 60px;
+    font-family: 'Orbitron', sans-serif;
+    letter-spacing: 7px;
+    background:white;
+    
+}
+
+span {
+    background:white;
+    margin: 1;
+    margin: 1;
+}
+
+
+.footer {
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background: black;
+    color: #FF8A65;
+    font-family:'Coiny', cursive;
+    font-size: 30px;
+    text-align: center;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+a {
+    color: #FF8A65;
+    font-family:'Coiny', cursive;
+    font-size: 30px;
+    text-align: center;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
